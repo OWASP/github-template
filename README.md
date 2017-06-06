@@ -1,12 +1,13 @@
 # ![Project Logo](images/logo.png) OWASP GitHub Template [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
 
-`TODO: Exchange above incubator project badge with one of the following if applicable and delete this paragraph:`
-[![OWASP Labs](https://img.shields.io/badge/owasp-labs%20project-f7b73c.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Labs_Projects) [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-38a047.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
-
 [![Build Status](https://travis-ci.org/owasp/github-template.svg?branch=master)](https://travis-ci.org/owasp/github-template)
-`TODO: Add other crucial overall status badges here. Context specific badges should go next to their section title or into [CONTRIBUTING.md](CONTRIBUTING.md).`
+_{{**TODO:** Add other crucial overall status badges here. Context specific badges should go next to their section title or into [CONTRIBUTING.md](CONTRIBUTING.md).}}_
 
-`TODO: Add brief project description (3-5 lines) here.`
+_{{**TODO:** Replace above [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) badge with one of the following if applicable and delete this paragraph:}}_
+* [![OWASP Labs](https://img.shields.io/badge/owasp-labs%20project-f7b73c.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Labs_Projects)
+* [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-38a047.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
+
+_{{**TODO:** Add brief project description (3-5 lines) here.}}_
 
 ![OWASP GitHub Template screenshot 1](images/screenshot1.png)
 ![OWASP GitHub Template screenshot 2](images/screenshot2.png)
@@ -14,11 +15,15 @@
 
 For a detailed introduction, full list of features and technical
 overview please visit the official project page:
-<https://www.owasp.org/index.php/OWASP_GitHub_Temoplate_Project>
+<https://www.owasp.org/index.php/OWASP_GitHub_Template_Project>
 
 ## Setup
 
+_{{**TODO:** Add instructions how to install and run the tool or how to integrate it into other software. If there are different options (e.g. cloning from GitHub & running a Docker container) explain each in their own sub-section.}}_
+
 ## Additional Documentation
+
+_{{**TODO:** Add links to further documentation in this section. This can be a printed book, [GitBook](https://www.gitbook.com/@owasp), powerpoint slides, screencasts etc.}}_
 
 ## Troubleshooting [![Gitter](http://img.shields.io/badge/gitter-join%20chat-1dce73.svg)](https://gitter.im/owasp/github-template)
 
@@ -55,15 +60,19 @@ PayPal donations via above button go to the OWASP Foundations and are
 earmarked for "GitHub Template". This is the preferred way to support the
 project.
 
+_{{**TODO:** Add alternative ways to donate to the project financially here, e.g. BitCoin address or other micropayment provider links.}}_
+
 ## Credits
+
+_{{**TODO:** Add "special thanks to..."-like credits here. Please **do not add sponsors** here! These belong into the ["Acknowledgements" tab of your OWASP Project wiki page](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project#tab=Acknowledgements) exclusively!}}_
 
 ## Contributors
 
-`TODO: You can generate a list of contributors via various open source tools, e.g. node-authors`
+_{{**TODO:** You can generate a list of contributors via various open source tools, e.g. `node-authors`}}_
 
 Ordered by date of first contribution.
-[Auto-generated](https://github.com/dtrejo/node-authors) on Wed, 19 Apr
-2017 08:32:58 GMT.
+[Auto-generated](https://github.com/dtrejo/node-authors) on Tue, 06 Jun
+2017 00:00:00 GMT.
 
 - [Björn Kimminich](https://github.com/bkimminich) aka `bkimminich`
 
@@ -73,4 +82,7 @@ This program is free software: you can redistribute it and/or modify it
 under the terms of the [MIT license](LICENSE). OWASP GitHub Template and any
 contributions are Copyright © by Bjoern Kimminich 2017.
 
+_{{**TODO:** Replace above text and the contents of the [LICENSE file](LICENSE) with [your chosen open-source license](https://opensource.org/licenses).}}_
+
 ![Project Logo](images/logo.png)
+
