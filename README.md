@@ -1,4 +1,4 @@
-# ![Project Logo](images/logo.png) OWASP GitHub Template [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
+# ![Project Logo](images/logo_100px.png) OWASP GitHub Template [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
 
 [![Build Status](https://travis-ci.org/owasp/github-template.svg?branch=master)](https://travis-ci.org/owasp/github-template)
 _{{**TODO:** Add other crucial overall status badges here. Context specific badges should go next to their section title or into [CONTRIBUTING.md](CONTRIBUTING.md).}}_
