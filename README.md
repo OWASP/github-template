@@ -1,22 +1,21 @@
 # ![Project Logo](images/logo_100px.png) OWASP GitHub Template [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
 
-_**TODO:** Replace with your own 100x100px logo._
+_**TODO:** Replace above logo with your own 100x100px logo. Also
+exchange the
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects)
+badge for one of the following if applicable:_
+* [![OWASP Labs](https://img.shields.io/badge/owasp-labs%20project-f7b73c.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Labs_Projects)
+* [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-38a047.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
 
 The OWASP GitHub Template is a copy&paste resource for OWASP projects to
-structure their `README.md` properly. _**TODO:** Replace with your own
-brief project description (3-5 lines)._
+structure their `README.md` in order to provide a useful front-page
+documentation to users and potential contributors. _**TODO:** Replace
+with your own brief project description (3-5 lines)._
 
 [![Build Status](https://travis-ci.org/owasp/github-template.svg?branch=master)](https://travis-ci.org/owasp/github-template)
 _**TODO:** Add other crucial overall status badges here. Context
 specific badges should go next to their section title, into
 [CONTRIBUTING.md](CONTRIBUTING.md) or into other sub-section files._
-
-_**TODO:** Replace above
-[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects)
-badge with one of the following if applicable and delete this
-paragraph:_
-* [![OWASP Labs](https://img.shields.io/badge/owasp-labs%20project-f7b73c.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Labs_Projects)
-* [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-38a047.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
 
 ![OWASP GitHub Template screenshot 1](images/screenshot1.png)
 ![OWASP GitHub Template screenshot 2](images/screenshot2.png)
@@ -116,4 +115,5 @@ _**TODO:** Replace above text and the contents of the
 
 _**TODO:** Replace with your own full-size logo._
 
-_**TODO:** Replace all occurences of `GitHub Template` and `owasp/github-template` with your own project name and repository path._
+_**TODO:** Replace all occurences of `GitHub Template` and
+`owasp/github-template` with your own project name and repository path._
