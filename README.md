@@ -21,6 +21,10 @@ overview please visit the official project page:
 
 _{{**TODO:** Add instructions how to install and run the tool or how to integrate it into other software. If there are different options (e.g. cloning from GitHub & running a Docker container) explain each in their own sub-section.}}_
 
+## Usage
+
+_{{**TODO:** Add instructions how to perform the typical use cases of the tool or library.}}_
+
 ## Additional Documentation
 
 _{{**TODO:** Add links to further documentation in this section. This can be a printed book, [GitBook](https://www.gitbook.com/@owasp), powerpoint slides, screencasts etc.}}_
