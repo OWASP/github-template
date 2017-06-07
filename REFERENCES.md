@@ -12,7 +12,8 @@ _{{**TODO:** Blog posts, writeups, magazine articles or podcasts go into this se
 
 * Blog Post on
   [OWASP Summit 2017](https://owaspsummit.org):
-  [TODO]()
+  [GitHub Template proposal](https://owaspsummit.org/2017/06/07/GitHub-Template-Proposal.html)
+* ...
 
 ## Conference and Meetup Appearances
 
@@ -24,3 +25,8 @@ _{{**TODO:** More recent events go to the **top** of the list. Try to use permal
   working session organized by Bjoern Kimminich,
   [OWASP Summit 2017](https://owaspsummit.org)
   12.06.2017
+* ...
+
+#### 2016
+
+* ...
