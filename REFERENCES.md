@@ -8,7 +8,7 @@ where this project was mentioned!
 
 ## Web Links
 
-_{{**TODO:** Blog posts, writeups, magazine articles or podcasts go into this section. More recent content goes to the **top** of the list.}}_
+_**TODO:** Blog posts, writeups, magazine articles or podcasts go into this section. More recent content goes to the **top** of the list._
 
 * Blog Post on
   [OWASP Summit 2017](https://owaspsummit.org):
@@ -17,7 +17,7 @@ _{{**TODO:** Blog posts, writeups, magazine articles or podcasts go into this se
 
 ## Conference and Meetup Appearances
 
-_{{**TODO:** More recent events go to the **top** of the list. Try to use permalinks. A good way to achieve this is to create a [Lanyrd](https://lanyrd.com) event and session.}}_
+_**TODO:** More recent events go to the **top** of the list. Try to use permalinks. A good way to achieve this is to create a [Lanyrd](https://lanyrd.com) event and session._
 
 #### 2017
 

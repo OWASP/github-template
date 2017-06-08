@@ -1,9 +1,9 @@
 # Contributing [![GitHub contributors](https://img.shields.io/github/contributors/owasp/github-template.svg)](https://github.com/owasp/github-template/graphs/contributors) [![Stories in Ready](https://badge.waffle.io/owasp/github-template.svg?label=ready&title=Ready)](http://waffle.io/owasp/github-template) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 [![Build Status](https://travis-ci.org/owasp/github-template.svg?branch=master)](https://travis-ci.org/owasp/github-template)
-_{{**TODO:** Add other crucial overall status badges here. Context
+_**TODO:** Add other crucial overall status badges here. Context
 specific badges should go next to their section title or into
-[CONTRIBUTING.md]().}}_
+[CONTRIBUTING.md]()._
 
 Found a bug? Crashed the tool? Propose a new feature?
 
@@ -15,13 +15,13 @@ below to make sure your PR can be merged and doesn't break anything.
 
 ## Code & Dependency Analysis Results
 
-_{{**TODO:** Optional section where you can add code quality status
-badges.}}_
+_**TODO:** Optional section where you can add code quality status
+badges._
 
 ## Git-Flow
 
-_{{**TODO:** Optional section in case you use the Git-Flow branching
-model.}}_
+_**TODO:** Optional section in case you use the Git-Flow branching
+model._
 
 This repository is maintained in a simplified
 [Git-Flow](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)
@@ -39,7 +39,7 @@ always be in a release-ready state.
 
 ## Style Guide
 
-_{{**TODO:** Briefly explain your expectations regarding code style.}}_
+_**TODO:** Briefly explain your expectations regarding code style._
 
 ## Testing
 
@@ -52,8 +52,8 @@ appropriate number of corresponding tests to verify they behave as intended.
 
 ### Unit Tests
 
-_{{**TODO:** Briefly explain your expectations regarding automated unit
-tests.}}_
+_**TODO:** Briefly explain your expectations regarding automated unit
+tests._
 
 ```
 replace with your unit test command
@@ -61,8 +61,8 @@ replace with your unit test command
 
 ### Integration Tests
 
-_{{**TODO:** Briefly explain your expectations regarding automated
-integration tests.}}_
+_**TODO:** Briefly explain your expectations regarding automated
+integration tests._
 
 ```
 replace with your unit test command
@@ -70,8 +70,8 @@ replace with your unit test command
 
 ### End-to-end Tests
 
-_{{**TODO:** Briefly explain your expectations regarding automated
-end-to-end tests.}}_
+_**TODO:** Briefly explain your expectations regarding automated
+end-to-end tests._
 
 ```
 replace with your e2e test command
@@ -79,5 +79,5 @@ replace with your e2e test command
 
 ## ...
 
-_{{**TODO:** Add further sections for other topics, e.g. Localization,
-Testing of release artifacts etc.}}_
+_**TODO:** Add further sections for other topics, e.g. Localization,
+Testing of release artifacts etc._
